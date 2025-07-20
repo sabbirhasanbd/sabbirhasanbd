@@ -21,10 +21,10 @@ I'm a passionate Front End Engineer dedicated to crafting pixel-perfect, high-pe
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact) -->
 
 **What drives me:**
-💻 Writing clean, efficient code that stands the test of time
-🌱 Continuously expanding my knowledge and sharing insights
-🎯 Delivering solutions with measurable business impact
-🤝 Building lasting relationships through exceptional work
+- 💻 Writing clean, efficient code that stands the test of time
+- 🌱 Continuously expanding my knowledge and sharing insights
+- 🎯 Delivering solutions with measurable business impact
+- 🤝 Building lasting relationships through exceptional work
 
 ## 🏆 Professional Journey
 
